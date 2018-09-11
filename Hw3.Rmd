@@ -1,7 +1,7 @@
 ---
-title: "HW 2"
+title: "HW 3"
 author: "Alec Lepe"
-date: "9/05/2018"
+date: "9/10/2018"
 output: 
   html_document:
     keep_md: true
